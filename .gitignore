@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/podomoro/README.md
+/yarn.lock
+/.idea/
+/podomoro/node_modules/
+/podomoro/yarn.lock
