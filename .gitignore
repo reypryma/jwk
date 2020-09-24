@@ -27,3 +27,6 @@ yarn-error.log*
 /podomoro/node_modules/
 /podomoro/yarn.lock
 /markdown/node_modules/
+/markdown/yarn.lock
+/highlight/node_modules/
+/highlight/yarn.lock
